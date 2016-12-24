@@ -820,6 +820,8 @@ mimes!(
         Mp4, "mp4", "mp4",
         Mpeg, "mpeg", "mpeg",
         Ogv, "ogv", "ogg",
+        Ogm, "ogm", "ogg",
+        Ogg, "ogg", "ogg",
         Qt, "qt", "quicktime",
         Uvh, "uvh", "vnd.dece.hd",
         Uvm, "uvm", "vnd.dece.mobile",
